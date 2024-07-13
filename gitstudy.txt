@@ -1,1 +1,2 @@
 GIT to GIT 1
+I am learning git now on my own slowly.
